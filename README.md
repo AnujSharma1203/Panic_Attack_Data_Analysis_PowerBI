@@ -43,20 +43,6 @@ The project uses **Snowflake** as the backend database and **SQL queries** for d
 
 ---
 
-## How to Use
-1. Open the Power BI dashboard file (`.pbix`).
-2. Connect to the Snowflake database or use the provided dataset.
-3. Use slicers and filters to explore specific symptoms or timeframes.
-4. Hover over charts for detailed metrics and trends.
-
----
-
-## Future Enhancements
-- Integrate additional biometric data like oxygen saturation and sleep patterns.
-- Include predictive analytics using AI/ML models to forecast panic attacks.
-- Make the dashboard mobile-friendly for real-time monitoring.
-
----
 
 ## Author
 **Anuj Sharma**
